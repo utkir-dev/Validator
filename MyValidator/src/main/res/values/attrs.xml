@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyEditText">
+        <attr name="TypeCustom" format="enum">
+            <enum name="userID" value="0"/>
+            <enum name="text" value="1"/>
+            <enum name="password" value="2"/>
+            <enum name="password_re_enter" value="3"/>
+            <enum name="email" value="4"/>
+            <enum name="ip_address" value="5"/>
+            <enum name="phone" value="6"/>
+            <enum name="zip_code" value="7"/>
+            <enum name="year" value="8"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="SpinnerValidator">
+
+    </declare-styleable>
+</resources>
