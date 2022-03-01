@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
             "Qatar",
             "Kazakhstan",
             "United States",
-            "China",
+            "China"
         )
         val arrayAdapter =
             ArrayAdapter(this, R.layout.support_simple_spinner_dropdown_item, countryList)
