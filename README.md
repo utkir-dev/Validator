@@ -20,7 +20,9 @@ allprojects {
   
   
   dependencies {
-	        implementation 'com.github.utkir-dev:Validator:Tag'
+  
+	        implementation 'com.github.utkir-dev:Validator:1.0.1'
+		
 	}
   
   
