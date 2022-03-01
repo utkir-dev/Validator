@@ -5,9 +5,10 @@ For validating registration fields on android-kotlin
 
 https://user-images.githubusercontent.com/100005918/156233257-226524f2-e3bb-40d2-ae80-dc4beeb98a93.mp4
 
-https://user-images.githubusercontent.com/100005918/156233087-b8775c94-1c60-4f60-8ca5-e32cb142fce9.jpg
 
-https://user-images.githubusercontent.com/100005918/156233218-ecc9b167-963f-42da-987c-f944fd6b5522.jpg
+![validator1](https://user-images.githubusercontent.com/100005918/156233637-ff0da650-a7b8-4116-8ae3-73b76d84f5c3.jpg)
+
+![validator2](https://user-images.githubusercontent.com/100005918/156233673-150ecad3-9527-47ed-83f5-1ee62c7e05e4.jpg)
 
 
 allprojects {
