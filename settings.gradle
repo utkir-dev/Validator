@@ -1,0 +1,3 @@
+include ':MyValidator'
+include ':app'
+rootProject.name = "Task_8_1_Validator"
